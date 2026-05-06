@@ -11,3 +11,5 @@
 .jekyll-metadata
 /docs/.hugo_build.lock
 /docs/target
+*.swp
+*.swo
